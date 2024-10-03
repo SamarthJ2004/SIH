@@ -1,0 +1,54 @@
+header {
+  background: #ddd1a88a;
+  color: #2c3e50;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  z-index: 50;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  margin: auto;
+  z-index: 50;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.logo>h1>a {
+  text-decoration: none;
+  color: #2c3e50;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.nav-links li>a {
+  color: #2c3e50;
+  font-size: 1.1rem;
+}
+
+.nav-links li>a:hover {
+  color: #4d6c88;
+}
+
+.login-btn:hover {
+  background: #0b579d;
+}
+
+.login-btn a {
+  color: white;
+}

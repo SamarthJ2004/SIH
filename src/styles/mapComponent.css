@@ -1,0 +1,46 @@
+.selectLocation{
+  position: absolute;
+  top: 10px;
+  left: 56px;
+  padding: 10px;
+  font-size:14px;
+  z-index: 1000;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.selectLocation:focus{
+  border: none;
+  outline: none;
+}
+
+.positionCenter{
+  position:absolute;
+  bottom: 10px;
+  right: 10px;
+  z-index: 1000;
+}
+
+.map-controls {
+  position: absolute;
+  top: 90px;
+  left: 10px;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+}
+
+.map-controls label {
+  margin-bottom: 5px;
+}
+
+.map-controls label:first-of-type{
+  margin-bottom: 20px;
+}
