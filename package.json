@@ -2,7 +2,7 @@
   "name": "oil-spill-detection",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://SIH.github.io/GODEYE",
+  "homepage": "http://SamarthJ2004.github.io/SIH",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "7.21.11",
     "@testing-library/jest-dom": "^5.17.0",
