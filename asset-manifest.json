@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GODEYE/static/css/main.a08f5b91.css",
+    "main.js": "/GODEYE/static/js/main.9d1d4cac.js",
+    "static/media/COMGULF.jpg": "/GODEYE/static/media/COMGULF.84c11c178519f31b471f.jpg",
+    "static/media/api image.jpg": "/GODEYE/static/media/api image.aefe9ad5a870bc90393c.jpg",
+    "static/media/logo 1.png": "/GODEYE/static/media/logo 1.e25459778300443c6f8d.png",
+    "static/media/anomaly.jpeg": "/GODEYE/static/media/anomaly.d365a395b6721b0c3af7.jpeg",
+    "static/media/mask.jpg": "/GODEYE/static/media/mask.685c263430f92f840788.jpg",
+    "static/media/blank_image.jpg": "/GODEYE/static/media/blank_image.d6638d1f2fb0f596c2f7.jpg",
+    "index.html": "/GODEYE/index.html",
+    "main.a08f5b91.css.map": "/GODEYE/static/css/main.a08f5b91.css.map",
+    "main.9d1d4cac.js.map": "/GODEYE/static/js/main.9d1d4cac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a08f5b91.css",
+    "static/js/main.9d1d4cac.js"
+  ]
+}
